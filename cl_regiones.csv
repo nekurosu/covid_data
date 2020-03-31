@@ -1,275 +1,275 @@
-fecha,region,casos,fallecidos
-2020-03-03,Maule,1,0
-2020-03-04,Metropolitana,1,0
-2020-03-04,Maule,2,0
-2020-03-05,Metropolitana,2,0
-2020-03-05,Maule,2,0
-2020-03-06,Metropolitana,3,0
-2020-03-06,Maule,2,0
-2020-03-07,Metropolitana,4,0
-2020-03-07,Maule,2,0
-2020-03-07,Los Lagos,1,0
-2020-03-08,Metropolitana,6,0
-2020-03-08,Maule,3,0
-2020-03-08,Los Lagos,1,0
-2020-03-09,Metropolitana,7,0
-2020-03-09,Maule,4,0
-2020-03-09,Biobío,1,0
-2020-03-09,Los Lagos,1,0
-2020-03-10,Metropolitana,10,0
-2020-03-10,Maule,5,0
-2020-03-10,Biobío,1,0
-2020-03-10,Los Lagos,1,0
-2020-03-11,Metropolitana,14,0
-2020-03-11,Maule,7,0
-2020-03-11,Biobío,1,0
-2020-03-11,Los Lagos,1,0
-2020-03-12,Metropolitana,23,0
-2020-03-12,Maule,7,0
-2020-03-12,Ñuble,1,0
-2020-03-12,Biobío,1,0
-2020-03-12,Los Lagos,1,0
-2020-03-13,Metropolitana,29,0
-2020-03-13,Maule,8,0
-2020-03-13,Ñuble,2,0
-2020-03-13,Biobío,3,0
-2020-03-13,Los Lagos,1,0
-2020-03-14,Antofagasta,2,0
-2020-03-14,Atacama,1,0
-2020-03-14,Metropolitana,40,0
-2020-03-14,Maule,9,0
-2020-03-14,Ñuble,4,0
-2020-03-14,Biobío,3,0
-2020-03-14,Los Lagos,1,0
-2020-03-14,Aysén,1,0
-2020-03-15,Antofagasta,2,0
-2020-03-15,Atacama,1,0
-2020-03-15,Metropolitana,54,0
-2020-03-15,Maule,9,0
-2020-03-15,Ñuble,4,0
-2020-03-15,Biobío,3,0
-2020-03-15,Los Lagos,1,0
-2020-03-15,Aysén,1,0
-2020-03-16,Antofagasta,2,0
-2020-03-16,Atacama,1,0
-2020-03-16,Valparaíso,1,0
-2020-03-16,Metropolitana,123,0
-2020-03-16,Maule,9,0
-2020-03-16,Ñuble,12,0
-2020-03-16,Biobío,4,0
-2020-03-16,Araucanía,1,0
-2020-03-16,Los Ríos,1,0
-2020-03-16,Los Lagos,1,0
-2020-03-16,Aysén,1,0
-2020-03-17,Antofagasta,2,0
-2020-03-17,Atacama,1,0
-2020-03-17,Valparaíso,1,0
-2020-03-17,Metropolitana,152,0
-2020-03-17,Maule,9,0
-2020-03-17,Ñuble,26,0
-2020-03-17,Biobío,4,0
-2020-03-17,Araucanía,1,0
-2020-03-17,Los Ríos,1,0
-2020-03-17,Los Lagos,1,0
-2020-03-17,Aysén,1,0
-2020-03-17,Magallanes,2,0
-2020-03-18,Antofagasta,2,0
-2020-03-18,Atacama,1,0
-2020-03-18,Valparaíso,1,0
-2020-03-18,Metropolitana,174,0
-2020-03-18,Maule,11,0
-2020-03-18,Ñuble,26,0
-2020-03-18,Biobío,7,0
-2020-03-18,Araucanía,4,0
-2020-03-18,Los Ríos,1,0
-2020-03-18,Los Lagos,8,0
-2020-03-18,Aysén,1,0
-2020-03-18,Magallanes,2,0
-2020-03-19,Arica y Parinacota,1,0
-2020-03-19,Antofagasta,2,0
-2020-03-19,Atacama,1,0
-2020-03-19,Coquimbo,2,0
-2020-03-19,Valparaíso,4,0
-2020-03-19,Metropolitana,247,0
-2020-03-19,O’Higgins,2,0
-2020-03-19,Maule,14,0
-2020-03-19,Ñuble,28,0
-2020-03-19,Biobío,14,0
-2020-03-19,Araucanía,7,0
-2020-03-19,Los Ríos,1,0
-2020-03-19,Los Lagos,16,0
-2020-03-19,Aysén,1,0
-2020-03-19,Magallanes,2,0
-2020-03-20,Arica y Parinacota,1,0
-2020-03-20,Antofagasta,6,0
-2020-03-20,Atacama,1,0
-2020-03-20,Coquimbo,3,0
-2020-03-20,Valparaíso,5,0
-2020-03-20,Metropolitana,304,0
-2020-03-20,O’Higgins,6,0
-2020-03-20,Maule,14,0
-2020-03-20,Ñuble,44,0
-2020-03-20,Biobío,19,0
-2020-03-20,Araucanía,9,0
-2020-03-20,Los Ríos,1,0
-2020-03-20,Los Lagos,18,0
-2020-03-20,Aysén,1,0
-2020-03-20,Magallanes,2,0
-2020-03-21,Arica y Parinacota,1,0
-2020-03-21,Antofagasta,10,0
-2020-03-21,Atacama,1,0
-2020-03-21,Coquimbo,3,0
-2020-03-21,Valparaíso,13,0
-2020-03-21,Metropolitana,359,1
-2020-03-21,O’Higgins,7,0
-2020-03-21,Maule,15,0
-2020-03-21,Ñuble,58,0
-2020-03-21,Biobío,30,0
-2020-03-21,Araucanía,15,0
-2020-03-21,Los Ríos,1,0
-2020-03-21,Los Lagos,20,0
-2020-03-21,Aysén,1,0
-2020-03-21,Magallanes,3,0
-2020-03-22,Arica y Parinacota,2,0
-2020-03-22,Antofagasta,11,0
-2020-03-22,Atacama,1,0
-2020-03-22,Coquimbo,5,0
-2020-03-22,Valparaíso,16,0
-2020-03-22,Metropolitana,409,1
-2020-03-22,O’Higgins,8,0
-2020-03-22,Maule,25,0
-2020-03-22,Ñuble,64,0
-2020-03-22,Biobío,35,0
-2020-03-22,Araucanía,27,0
-2020-03-22,Los Ríos,1,0
-2020-03-22,Los Lagos,23,0
-2020-03-22,Aysén,1,0
-2020-03-22,Magallanes,4,0
-2020-03-23,Arica y Parinacota,2,0
-2020-03-23,Tarapacá,1,0
-2020-03-23,Antofagasta,11,0
-2020-03-23,Atacama,1,0
-2020-03-23,Coquimbo,6,0
-2020-03-23,Valparaíso,19,0
-2020-03-23,Metropolitana,459,2
-2020-03-23,O’Higgins,8,0
-2020-03-23,Maule,28,0
-2020-03-23,Ñuble,81,0
-2020-03-23,Biobío,46,0
-2020-03-23,Araucanía,40,0
-2020-03-23,Los Ríos,4,0
-2020-03-23,Los Lagos,33,0
-2020-03-23,Aysén,1,0
-2020-03-23,Magallanes,6,0
-2020-03-24,Arica y Parinacota,2,0
-2020-03-24,Tarapacá,4,0
-2020-03-24,Antofagasta,13,0
-2020-03-24,Atacama,1,0
-2020-03-24,Coquimbo,11,0
-2020-03-24,Valparaíso,25,0
-2020-03-24,Metropolitana,540,2
-2020-03-24,O’Higgins,9,0
-2020-03-24,Maule,29,0
-2020-03-24,Ñuble,105,0
-2020-03-24,Biobío,73,0
-2020-03-24,Araucanía,59,0
-2020-03-24,Los Ríos,6,0
-2020-03-24,Los Lagos,36,0
-2020-03-24,Aysén,1,0
-2020-03-24,Magallanes,8,0
-2020-03-25,Arica y Parinacota,2,0
-2020-03-25,Tarapacá,4,0
-2020-03-25,Antofagasta,19,0
-2020-03-25,Atacama,1,0
-2020-03-25,Coquimbo,12,0
-2020-03-25,Valparaíso,32,0
-2020-03-25,Metropolitana,682,2
-2020-03-25,O’Higgins,11,0
-2020-03-25,Maule,30,0
-2020-03-25,Ñuble,111,0
-2020-03-25,Biobío,95,1
-2020-03-25,Araucanía,74,0
-2020-03-25,Los Ríos,11,0
-2020-03-25,Los Lagos,44,0
-2020-03-25,Aysén,1,0
-2020-03-25,Magallanes,13,0
-2020-03-26,Arica y Parinacota,3,0
-2020-03-26,Tarapacá,5,0
-2020-03-26,Antofagasta,20,0
-2020-03-26,Atacama,1,0
-2020-03-26,Coquimbo,13,0
-2020-03-26,Valparaíso,44,0
-2020-03-26,Metropolitana,746,3
-2020-03-26,O’Higgins,14,0
-2020-03-26,Maule,31,0
-2020-03-26,Ñuble,114,0
-2020-03-26,Biobío,109,1
-2020-03-26,Araucanía,111,0
-2020-03-26,Los Ríos,14,0
-2020-03-26,Los Lagos,60,0
-2020-03-26,Aysén,2,0
-2020-03-26,Magallanes,19,0
-2020-03-27,Arica y Parinacota,3,0
-2020-03-27,Tarapacá,5,0
-2020-03-27,Antofagasta,21,0
-2020-03-27,Atacama,1,0
-2020-03-27,Coquimbo,14,0
-2020-03-27,Valparaíso,49,0
-2020-03-27,Metropolitana,938,3
-2020-03-27,O’Higgins,16,0
-2020-03-27,Maule,32,0
-2020-03-27,Ñuble,144,0
-2020-03-27,Biobío,135,2
-2020-03-27,Araucanía,143,0
-2020-03-27,Los Ríos,22,0
-2020-03-27,Los Lagos,63,0
-2020-03-27,Aysén,2,0
-2020-03-27,Magallanes,22,0
-2020-03-28,Arica y Parinacota,3,0
-2020-03-28,Tarapacá,5,0
-2020-03-28,Antofagasta,25,0
-2020-03-28,Atacama,1,0
-2020-03-28,Coquimbo,15,0
-2020-03-28,Valparaíso,71,0
-2020-03-28,Metropolitana,1084,3
-2020-03-28,O’Higgins,20,0
-2020-03-28,Maule,37,0
-2020-03-28,Ñuble,172,0
-2020-03-28,Biobío,151,2
-2020-03-28,Araucanía,177,1
-2020-03-28,Los Ríos,27,0
-2020-03-28,Los Lagos,93,0
-2020-03-28,Aysén,2,0
-2020-03-28,Magallanes,26,0
-2020-03-29,Arica y Parinacota,4,0
-2020-03-29,Tarapacá,6,0
-2020-03-29,Antofagasta,27,0
-2020-03-29,Atacama,2,0
-2020-03-29,Coquimbo,18,0
-2020-03-29,Valparaíso,80,0
-2020-03-29,Metropolitana,1167,3
-2020-03-29,O’Higgins,21,0
-2020-03-29,Maule,42,0
-2020-03-29,Ñuble,197,0
-2020-03-29,Biobío,185,2
-2020-03-29,Araucanía,205,2
-2020-03-29,Los Ríos,40,0
-2020-03-29,Los Lagos,104,0
-2020-03-29,Aysén,2,0
-2020-03-29,Magallanes,39,0
-2020-03-30,Arica y Parinacota,6,0
-2020-03-30,Tarapacá,8,0
-2020-03-30,Antofagasta,35,0
-2020-03-30,Atacama,2,0
-2020-03-30,Coquimbo,27,0
-2020-03-30,Valparaíso,108,0
-2020-03-30,Metropolitana,1295,3
-2020-03-30,O’Higgins,21,0
-2020-03-30,Maule,54,1
-2020-03-30,Ñuble,229,0
-2020-03-30,Biobío,201,2
-2020-03-30,Araucanía,247,2
-2020-03-30,Los Ríos,47,0
-2020-03-30,Los Lagos,128,0
-2020-03-30,Aysén,2,0
-2020-03-30,Magallanes,39,0
+fecha,region,codigo_iso,casos,fallecidos
+2020-03-03,Maule,CL-ML,1,0
+2020-03-04,Metropolitana,CL-RM,1,0
+2020-03-04,Maule,CL-ML,2,0
+2020-03-05,Metropolitana,CL-RM,2,0
+2020-03-05,Maule,CL-ML,2,0
+2020-03-06,Metropolitana,CL-RM,3,0
+2020-03-06,Maule,CL-ML,2,0
+2020-03-07,Metropolitana,CL-RM,4,0
+2020-03-07,Maule,CL-ML,2,0
+2020-03-07,Los Lagos,CL-LL,1,0
+2020-03-08,Metropolitana,CL-RM,6,0
+2020-03-08,Maule,CL-ML,3,0
+2020-03-08,Los Lagos,CL-LL,1,0
+2020-03-09,Metropolitana,CL-RM,7,0
+2020-03-09,Maule,CL-ML,4,0
+2020-03-09,Biobío,CL-BI,1,0
+2020-03-09,Los Lagos,CL-LL,1,0
+2020-03-10,Metropolitana,CL-RM,10,0
+2020-03-10,Maule,CL-ML,5,0
+2020-03-10,Biobío,CL-BI,1,0
+2020-03-10,Los Lagos,CL-LL,1,0
+2020-03-11,Metropolitana,CL-RM,14,0
+2020-03-11,Maule,CL-ML,7,0
+2020-03-11,Biobío,CL-BI,1,0
+2020-03-11,Los Lagos,CL-LL,1,0
+2020-03-12,Metropolitana,CL-RM,23,0
+2020-03-12,Maule,CL-ML,7,0
+2020-03-12,Ñuble,CL-NB,1,0
+2020-03-12,Biobío,CL-BI,1,0
+2020-03-12,Los Lagos,CL-LL,1,0
+2020-03-13,Metropolitana,CL-RM,29,0
+2020-03-13,Maule,CL-ML,8,0
+2020-03-13,Ñuble,CL-NB,2,0
+2020-03-13,Biobío,CL-BI,3,0
+2020-03-13,Los Lagos,CL-LL,1,0
+2020-03-14,Antofagasta,CL-AN,2,0
+2020-03-14,Atacama,CL-AT,1,0
+2020-03-14,Metropolitana,CL-RM,40,0
+2020-03-14,Maule,CL-ML,9,0
+2020-03-14,Ñuble,CL-NB,4,0
+2020-03-14,Biobío,CL-BI,3,0
+2020-03-14,Los Lagos,CL-LL,1,0
+2020-03-14,Aysén,CL-AI,1,0
+2020-03-15,Antofagasta,CL-AN,2,0
+2020-03-15,Atacama,CL-AT,1,0
+2020-03-15,Metropolitana,CL-RM,54,0
+2020-03-15,Maule,CL-ML,9,0
+2020-03-15,Ñuble,CL-NB,4,0
+2020-03-15,Biobío,CL-BI,3,0
+2020-03-15,Los Lagos,CL-LL,1,0
+2020-03-15,Aysén,CL-AI,1,0
+2020-03-16,Antofagasta,CL-AN,2,0
+2020-03-16,Atacama,CL-AT,1,0
+2020-03-16,Valparaíso,CL-VS,1,0
+2020-03-16,Metropolitana,CL-RM,123,0
+2020-03-16,Maule,CL-ML,9,0
+2020-03-16,Ñuble,CL-NB,12,0
+2020-03-16,Biobío,CL-BI,4,0
+2020-03-16,Araucanía,CL-AR,1,0
+2020-03-16,Los Ríos,CL-LR,1,0
+2020-03-16,Los Lagos,CL-LL,1,0
+2020-03-16,Aysén,CL-AI,1,0
+2020-03-17,Antofagasta,CL-AN,2,0
+2020-03-17,Atacama,CL-AT,1,0
+2020-03-17,Valparaíso,CL-VS,1,0
+2020-03-17,Metropolitana,CL-RM,152,0
+2020-03-17,Maule,CL-ML,9,0
+2020-03-17,Ñuble,CL-NB,26,0
+2020-03-17,Biobío,CL-BI,4,0
+2020-03-17,Araucanía,CL-AR,1,0
+2020-03-17,Los Ríos,CL-LR,1,0
+2020-03-17,Los Lagos,CL-LL,1,0
+2020-03-17,Aysén,CL-AI,1,0
+2020-03-17,Magallanes,CL-MA,2,0
+2020-03-18,Antofagasta,CL-AN,2,0
+2020-03-18,Atacama,CL-AT,1,0
+2020-03-18,Valparaíso,CL-VS,1,0
+2020-03-18,Metropolitana,CL-RM,174,0
+2020-03-18,Maule,CL-ML,11,0
+2020-03-18,Ñuble,CL-NB,26,0
+2020-03-18,Biobío,CL-BI,7,0
+2020-03-18,Araucanía,CL-AR,4,0
+2020-03-18,Los Ríos,CL-LR,1,0
+2020-03-18,Los Lagos,CL-LL,8,0
+2020-03-18,Aysén,CL-AI,1,0
+2020-03-18,Magallanes,CL-MA,2,0
+2020-03-19,Arica y Parinacota,CL-AP,1,0
+2020-03-19,Antofagasta,CL-AN,2,0
+2020-03-19,Atacama,CL-AT,1,0
+2020-03-19,Coquimbo,CL-CO,2,0
+2020-03-19,Valparaíso,CL-VS,4,0
+2020-03-19,Metropolitana,CL-RM,247,0
+2020-03-19,O’Higgins,CL-LI,2,0
+2020-03-19,Maule,CL-ML,14,0
+2020-03-19,Ñuble,CL-NB,28,0
+2020-03-19,Biobío,CL-BI,14,0
+2020-03-19,Araucanía,CL-AR,7,0
+2020-03-19,Los Ríos,CL-LR,1,0
+2020-03-19,Los Lagos,CL-LL,16,0
+2020-03-19,Aysén,CL-AI,1,0
+2020-03-19,Magallanes,CL-MA,2,0
+2020-03-20,Arica y Parinacota,CL-AP,1,0
+2020-03-20,Antofagasta,CL-AN,6,0
+2020-03-20,Atacama,CL-AT,1,0
+2020-03-20,Coquimbo,CL-CO,3,0
+2020-03-20,Valparaíso,CL-VS,5,0
+2020-03-20,Metropolitana,CL-RM,304,0
+2020-03-20,O’Higgins,CL-LI,6,0
+2020-03-20,Maule,CL-ML,14,0
+2020-03-20,Ñuble,CL-NB,44,0
+2020-03-20,Biobío,CL-BI,19,0
+2020-03-20,Araucanía,CL-AR,9,0
+2020-03-20,Los Ríos,CL-LR,1,0
+2020-03-20,Los Lagos,CL-LL,18,0
+2020-03-20,Aysén,CL-AI,1,0
+2020-03-20,Magallanes,CL-MA,2,0
+2020-03-21,Arica y Parinacota,CL-AP,1,0
+2020-03-21,Antofagasta,CL-AN,10,0
+2020-03-21,Atacama,CL-AT,1,0
+2020-03-21,Coquimbo,CL-CO,3,0
+2020-03-21,Valparaíso,CL-VS,13,0
+2020-03-21,Metropolitana,CL-RM,359,1
+2020-03-21,O’Higgins,CL-LI,7,0
+2020-03-21,Maule,CL-ML,15,0
+2020-03-21,Ñuble,CL-NB,58,0
+2020-03-21,Biobío,CL-BI,30,0
+2020-03-21,Araucanía,CL-AR,15,0
+2020-03-21,Los Ríos,CL-LR,1,0
+2020-03-21,Los Lagos,CL-LL,20,0
+2020-03-21,Aysén,CL-AI,1,0
+2020-03-21,Magallanes,CL-MA,3,0
+2020-03-22,Arica y Parinacota,CL-AP,2,0
+2020-03-22,Antofagasta,CL-AN,11,0
+2020-03-22,Atacama,CL-AT,1,0
+2020-03-22,Coquimbo,CL-CO,5,0
+2020-03-22,Valparaíso,CL-VS,16,0
+2020-03-22,Metropolitana,CL-RM,409,1
+2020-03-22,O’Higgins,CL-LI,8,0
+2020-03-22,Maule,CL-ML,25,0
+2020-03-22,Ñuble,CL-NB,64,0
+2020-03-22,Biobío,CL-BI,35,0
+2020-03-22,Araucanía,CL-AR,27,0
+2020-03-22,Los Ríos,CL-LR,1,0
+2020-03-22,Los Lagos,CL-LL,23,0
+2020-03-22,Aysén,CL-AI,1,0
+2020-03-22,Magallanes,CL-MA,4,0
+2020-03-23,Arica y Parinacota,CL-AP,2,0
+2020-03-23,Tarapacá,CL-TA,1,0
+2020-03-23,Antofagasta,CL-AN,11,0
+2020-03-23,Atacama,CL-AT,1,0
+2020-03-23,Coquimbo,CL-CO,6,0
+2020-03-23,Valparaíso,CL-VS,19,0
+2020-03-23,Metropolitana,CL-RM,459,2
+2020-03-23,O’Higgins,CL-LI,8,0
+2020-03-23,Maule,CL-ML,28,0
+2020-03-23,Ñuble,CL-NB,81,0
+2020-03-23,Biobío,CL-BI,46,0
+2020-03-23,Araucanía,CL-AR,40,0
+2020-03-23,Los Ríos,CL-LR,4,0
+2020-03-23,Los Lagos,CL-LL,33,0
+2020-03-23,Aysén,CL-AI,1,0
+2020-03-23,Magallanes,CL-MA,6,0
+2020-03-24,Arica y Parinacota,CL-AP,2,0
+2020-03-24,Tarapacá,CL-TA,4,0
+2020-03-24,Antofagasta,CL-AN,13,0
+2020-03-24,Atacama,CL-AT,1,0
+2020-03-24,Coquimbo,CL-CO,11,0
+2020-03-24,Valparaíso,CL-VS,25,0
+2020-03-24,Metropolitana,CL-RM,540,2
+2020-03-24,O’Higgins,CL-LI,9,0
+2020-03-24,Maule,CL-ML,29,0
+2020-03-24,Ñuble,CL-NB,105,0
+2020-03-24,Biobío,CL-BI,73,0
+2020-03-24,Araucanía,CL-AR,59,0
+2020-03-24,Los Ríos,CL-LR,6,0
+2020-03-24,Los Lagos,CL-LL,36,0
+2020-03-24,Aysén,CL-AI,1,0
+2020-03-24,Magallanes,CL-MA,8,0
+2020-03-25,Arica y Parinacota,CL-AP,2,0
+2020-03-25,Tarapacá,CL-TA,4,0
+2020-03-25,Antofagasta,CL-AN,19,0
+2020-03-25,Atacama,CL-AT,1,0
+2020-03-25,Coquimbo,CL-CO,12,0
+2020-03-25,Valparaíso,CL-VS,32,0
+2020-03-25,Metropolitana,CL-RM,682,2
+2020-03-25,O’Higgins,CL-LI,11,0
+2020-03-25,Maule,CL-ML,30,0
+2020-03-25,Ñuble,CL-NB,111,0
+2020-03-25,Biobío,CL-BI,95,1
+2020-03-25,Araucanía,CL-AR,74,0
+2020-03-25,Los Ríos,CL-LR,11,0
+2020-03-25,Los Lagos,CL-LL,44,0
+2020-03-25,Aysén,CL-AI,1,0
+2020-03-25,Magallanes,CL-MA,13,0
+2020-03-26,Arica y Parinacota,CL-AP,3,0
+2020-03-26,Tarapacá,CL-TA,5,0
+2020-03-26,Antofagasta,CL-AN,20,0
+2020-03-26,Atacama,CL-AT,1,0
+2020-03-26,Coquimbo,CL-CO,13,0
+2020-03-26,Valparaíso,CL-VS,44,0
+2020-03-26,Metropolitana,CL-RM,746,3
+2020-03-26,O’Higgins,CL-LI,14,0
+2020-03-26,Maule,CL-ML,31,0
+2020-03-26,Ñuble,CL-NB,114,0
+2020-03-26,Biobío,CL-BI,109,1
+2020-03-26,Araucanía,CL-AR,111,0
+2020-03-26,Los Ríos,CL-LR,14,0
+2020-03-26,Los Lagos,CL-LL,60,0
+2020-03-26,Aysén,CL-AI,2,0
+2020-03-26,Magallanes,CL-MA,19,0
+2020-03-27,Arica y Parinacota,CL-AP,3,0
+2020-03-27,Tarapacá,CL-TA,5,0
+2020-03-27,Antofagasta,CL-AN,21,0
+2020-03-27,Atacama,CL-AT,1,0
+2020-03-27,Coquimbo,CL-CO,14,0
+2020-03-27,Valparaíso,CL-VS,49,0
+2020-03-27,Metropolitana,CL-RM,938,3
+2020-03-27,O’Higgins,CL-LI,16,0
+2020-03-27,Maule,CL-ML,32,0
+2020-03-27,Ñuble,CL-NB,144,0
+2020-03-27,Biobío,CL-BI,135,2
+2020-03-27,Araucanía,CL-AR,143,0
+2020-03-27,Los Ríos,CL-LR,22,0
+2020-03-27,Los Lagos,CL-LL,63,0
+2020-03-27,Aysén,CL-AI,2,0
+2020-03-27,Magallanes,CL-MA,22,0
+2020-03-28,Arica y Parinacota,CL-AP,3,0
+2020-03-28,Tarapacá,CL-TA,5,0
+2020-03-28,Antofagasta,CL-AN,25,0
+2020-03-28,Atacama,CL-AT,1,0
+2020-03-28,Coquimbo,CL-CO,15,0
+2020-03-28,Valparaíso,CL-VS,71,0
+2020-03-28,Metropolitana,CL-RM,1084,3
+2020-03-28,O’Higgins,CL-LI,20,0
+2020-03-28,Maule,CL-ML,37,0
+2020-03-28,Ñuble,CL-NB,172,0
+2020-03-28,Biobío,CL-BI,151,2
+2020-03-28,Araucanía,CL-AR,177,1
+2020-03-28,Los Ríos,CL-LR,27,0
+2020-03-28,Los Lagos,CL-LL,93,0
+2020-03-28,Aysén,CL-AI,2,0
+2020-03-28,Magallanes,CL-MA,26,0
+2020-03-29,Arica y Parinacota,CL-AP,4,0
+2020-03-29,Tarapacá,CL-TA,6,0
+2020-03-29,Antofagasta,CL-AN,27,0
+2020-03-29,Atacama,CL-AT,2,0
+2020-03-29,Coquimbo,CL-CO,18,0
+2020-03-29,Valparaíso,CL-VS,80,0
+2020-03-29,Metropolitana,CL-RM,1167,3
+2020-03-29,O’Higgins,CL-LI,21,0
+2020-03-29,Maule,CL-ML,42,0
+2020-03-29,Ñuble,CL-NB,197,0
+2020-03-29,Biobío,CL-BI,185,2
+2020-03-29,Araucanía,CL-AR,205,2
+2020-03-29,Los Ríos,CL-LR,40,0
+2020-03-29,Los Lagos,CL-LL,104,0
+2020-03-29,Aysén,CL-AI,2,0
+2020-03-29,Magallanes,CL-MA,39,0
+2020-03-30,Arica y Parinacota,CL-AP,6,0
+2020-03-30,Tarapacá,CL-TA,8,0
+2020-03-30,Antofagasta,CL-AN,35,0
+2020-03-30,Atacama,CL-AT,2,0
+2020-03-30,Coquimbo,CL-CO,27,0
+2020-03-30,Valparaíso,CL-VS,108,0
+2020-03-30,Metropolitana,CL-RM,1295,3
+2020-03-30,O’Higgins,CL-LI,21,0
+2020-03-30,Maule,CL-ML,54,1
+2020-03-30,Ñuble,CL-NB,229,0
+2020-03-30,Biobío,CL-BI,201,2
+2020-03-30,Araucanía,CL-AR,247,2
+2020-03-30,Los Ríos,CL-LR,47,0
+2020-03-30,Los Lagos,CL-LL,128,0
+2020-03-30,Aysén,CL-AI,2,0
+2020-03-30,Magallanes,CL-MA,39,0
