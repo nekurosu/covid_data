@@ -1503,9 +1503,9 @@ fecha,region,codigo_iso,casos,fallecidos
 2020-06-14,Araucanía,CL-AR,2675,36
 2020-06-14,Araucanía,CL-AR,2675,36
 2020-06-14,Araucanía,CL-AR,2675,36
-2020-06-14,Los Ríos,CL-LR,495,9
-2020-06-14,Los Ríos,CL-LR,495,9
 2020-06-14,Los Ríos,CL-LR,497,9
+2020-06-14,Los Ríos,CL-LR,495,9
+2020-06-14,Los Ríos,CL-LR,495,9
 2020-06-14,Los Ríos,CL-LR,497,9
 2020-06-14,Los Lagos,CL-LL,1141,13
 2020-06-14,Los Lagos,CL-LL,1141,13
@@ -1549,3 +1549,19 @@ fecha,region,codigo_iso,casos,fallecidos
 2020-06-16,Los Lagos,CL-LL,1178,13
 2020-06-16,Aysén,CL-AI,26,0
 2020-06-16,Magallanes,CL-MA,1210,15
+2020-06-17,Arica y Parinacota,CL-AP,1218,11
+2020-06-17,Tarapacá,CL-TA,4787,67
+2020-06-17,Antofagasta,CL-AN,5241,81
+2020-06-17,Atacama,CL-AT,561,0
+2020-06-17,Coquimbo,CL-CO,1980,12
+2020-06-17,Valparaíso,CL-VS,8253,141
+2020-06-17,Metropolitana,CL-RM,180532,3114
+2020-06-17,O’Higgins,CL-LI,2797,41
+2020-06-17,Maule,CL-ML,3386,24
+2020-06-17,Ñuble,CL-NB,1929,24
+2020-06-17,Biobío,CL-BI,4015,25
+2020-06-17,Araucanía,CL-AR,2815,36
+2020-06-17,Los Ríos,CL-LR,555,10
+2020-06-17,Los Lagos,CL-LL,1249,14
+2020-06-17,Aysén,CL-AI,26,0
+2020-06-17,Magallanes,CL-MA,1284,15
